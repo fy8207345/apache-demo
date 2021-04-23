@@ -10,6 +10,7 @@
     <modules>
         <module>commons-io</module>
         <module>zookeeper</module>
+        <module>curator</module>
     </modules>
     <packaging>pom</packaging>
 
